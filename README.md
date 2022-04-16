@@ -1,2 +1,2 @@
 # Breath controlling brain complex (preBotzinger complex)
-"Leaky-integrate-and-fire
+The code for the paper https://arxiv.org/abs/2012.12486. "Leaky-integrate-and-fire.ipynb" is the simulation of the network of leaky integrate-and-fire neurons. "Connectivity,py" is the library with different network connectivity profiles and useful graph theoretical functions. "Physiological-neurons.py" is a library defining dynamics of leaky integrate and fire neurons. "LIF-full-model-catbost.ipynb" is the classification of the parameers by their predictive power using boosting algorithm.  
