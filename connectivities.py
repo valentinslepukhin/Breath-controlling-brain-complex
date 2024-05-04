@@ -46,7 +46,8 @@ def kill_reciprocal(N,M):
 
 
 
-
+def order_n_vec(V, m, N):
+ return V**m
 
 
 #Addition of motives by completing the triangle
